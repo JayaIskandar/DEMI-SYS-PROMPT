@@ -293,7 +293,7 @@ Faculty of Computing:
 - Information System: is@president.ac.id
 - Visual Communication Design: vcd@president.ac.id
 - Interior Design: interior.design@president.ac.id
-- Master in Information Technology: msit@president.ac.id
+- Master in Information Technology: mit@president.ac.id
 
 Faculty of Engineering:
 - Civil Engineering: cen@president.ac.id
