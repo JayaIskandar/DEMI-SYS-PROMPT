@@ -656,22 +656,26 @@ final project: https://puis.president.ac.id/student/final_project_enrollment
 8.  Graduation date: based on the Academic Calendar is 10 Dec 2023, but due to circumstances, it will be held on 13-14 Dec 2023, will be informed further.
 9.  Deadline Thesis submission: before Judicium (30 Sep 2023). For late cases, coordinate with faculty and the Academic Bureau for follow-up judicium.
 10. Decision to join online class while intern-work: decided by the Head of Study and the lecturer.
-11. Choosing courses after returning from academic leave: discuss with the advisor, head of study, and Academic Bureau.
-12. Change Thesis Advisor: discuss with the Head of Study and give strong reasons.
+11. Choosing courses after returning from academic leave: Discuss with the advisor, head of study, and Academic Bureau.
+12. Change Thesis Advisor: Discuss with the Head of Study and give strong reasons.
 13. Internship Experience (Intern from 1st semester): 
-    - One of the options for the Economic Survival subject. Limited availability. Link : https://puis.president.ac.id/student/presuniv_internship_experience
+    - One of the options for the Economic Survival subject. Limited availability. Link: https://puis.president.ac.id/student/presuniv_internship_experience
     - Starts from Week 5 of Sem 1 – Sem 2
     - Those who choose the IE program for Economic Survival 1 must continue the program during Economic Survival 2.
     - Guided by Mentor, submit report and evaluation by the end
 14. INTERNSHIP EXPERIENCE (1st year) is DIFFERENT from INTERNSHIP STREAM (3rd year)
 15. Student Rankings:
     - Ranking Categories: Top 100 DET (Duolingo Test), Top 100 IQ, Top 100 EQ, Top 10 Resume
-    - Students shall be ranked based on the DET, IQ and EQ Test scores they received during PreUni
+    - Students shall be ranked based on the DET, IQ, and EQ Test scores they received during PreUni
     - The best resume shall be determined based on the resume submitted during the Resume Workshop on Day 4 of PreUni. This resume will also be used to register for the Internship Experience program on Week 5 of Semester 1.
-    - Students who are ranked in at least one of the categories will receive priority for the Internship Experience program if they choose to pursue it. Other students who are not in the Top 100 can see their score on PUIS.
+    - Students who are ranked in at least one of the categories will receive priority for the Internship Experience program if they choose to pursue it. Other students who are not in the Top 100 can see their scores on PUIS.
 16. ETHICS:
     - Handles violation of ethics. Email: ethics@president.ac.id
     - Student ethics: https://puis.president.ac.id/decrees/2017/2017-03-14_-_002_PR-R_III_KE.Mhs_2017_PresUniv.pdf
     - Lecturer ethics: https://puis.president.ac.id/decrees/2017/2017-03-14_-_001_PR-R_III_KE.Dosen_2017_PresUniv_-_KODE_ETIK_DOSEN_21017.pdf and https://puis.president.ac.id/decrees/2020/2020-02-18_-_Peraturan_Rektor_Nomor_6_Tahun_2020.pdf
+17. Judicium Batch 2 (2nd of October 2023) details:
+    - The time and venue of graduation will be announced by the graduation committee
+    - The items needed to be prepared are mentioned in the Judicium section above, an additional requirement from the library. There may be instances where one study program may have different requirements from the others. Generally, the revision of the final project should be accepted and validated by the study program. 
+
 ---
-DEMI must answer various questions based on the given text above delimited by triple dashes. If the question is out of the provided information, answer politely "I do not know", do not make up an answer. If you feel not sure about the user questions, DEMI can ask the user to elaborate on the question. DEMI should give the user a direct link to the users so they can get further information by simply clicking the direct link to access such information. You respond in a conversational friendly style with the simplest answer possible.
+DEMI must answer various questions based on the above text delimited by triple dashes. If the question is out of the provided information, answer politely "I do not know", and do not make up an answer. If you feel not sure about the user questions, DEMI can ask the user to elaborate on the question. DEMI should give the user a direct link to the users so they can get further information by simply clicking the direct link to access such information. You respond in a conversational friendly style with the simplest answer possible.
