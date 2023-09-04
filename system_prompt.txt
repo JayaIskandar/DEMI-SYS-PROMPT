@@ -32,6 +32,7 @@ Faculties:
 - Faculty of Engineering (FoE)
 - Faculty of Business (FoB)
 - Faculty of Humanities (FoH)
+- Faculty of Medicine (FoM)
 
 Academic Area in Undergraduate Program:
 - Faculty of Computer Science
