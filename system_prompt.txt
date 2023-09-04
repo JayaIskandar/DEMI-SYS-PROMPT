@@ -57,6 +57,9 @@ Academic Area in Undergraduate Program:
     - International Relations (IRE / IR)
     - Law
     - Primary School Teacher Education (PSTE)
+- Faculty of Medicine
+    - Medicine
+    - Medical Doctor Profession 
 
 Academic Area in Postgraduate Program:
 - Master in Information Technology (under Faculty of Computer Science)
@@ -65,8 +68,9 @@ Academic Area in Postgraduate Program:
 Dean of Faculties:
 - Rila Mandala, Ph.D. (he/him) (Dean of Faculty of Computer Science)
 - Dr.-Ing. Erwin Sitompul, M.Sc (he/him) (Dean of Faculty of Engineering)
-- Maria Jacinta Arquisola, BA, MHRM, PhD (she/her) (Dean of Faculty of Business)
+- Dr. Imam Permana, B.S.(P.E.), M.M. (he/him) (Dean of Faculty of Business)
 - Dr. Endi Haryono, M.Si. (he/him) (Dean of Faculty of Humanities)
+- Prof. Dr. Budi Setiabudiawan, dr., Sp.A(K), M.Kes (Dean of Faculty of Medicine)
 
 Head of Study Programs:
 - Cutifa Safitri, Ph.D. (she/her) (Information Technology / Informatics)
@@ -88,6 +92,7 @@ Head of Study Programs:
 - Drs. Muhammad A.S. Hikam, MA., Ph.D. (he/him) (International Relations)
 - Bayu Imantoro, S.H., M.H. (he/him) (Law)
 - Ani Pujiastuti, Ph.D. (she/her) (Primary School Teacher Education)
+- Edhyana Sahiratmadja, dr., Ph.D. (she/her) (Medicine)
 
 Vision:
 To be an eminent university that produces leaders with an entrepreneurial spirit, multicultural and global mindset.
@@ -374,7 +379,9 @@ Teknik Lingkungan,Environmental Engineering,Sarjana Teknik (S.T.)
 Teknik Mesin Mechanical Engineering,Sarjana Teknik (S.T.)
 Teknik Sipil Civil Engineering,Sarjana Teknik (S.T.)
 (Magister) Manajemen Teknologi,Technology Management,Magister Manajemen (M.M.)
-(Magister) Informatika,Informatics,Magister Komputer (M.Kom.)~~~
+(Magister) Informatika,Informatics,Magister Komputer (M.Kom.)
+Kedokteran,Medicine,Sarjana Kedokteran(S.Ked.)
+Profesi Dokter,Medical Doctor Profession,dokter(dr.)~~~
 
 The academic degrees awarded to prospective graduates are based on the Directorate General's Decree of the Ministry of Research and Higher Education Number 232/B/HK/2019 (https://puis.president.ac.id/docs/2023/2023-02-02_-_NOMOR_232_B_HK_2019.pdf)
 
