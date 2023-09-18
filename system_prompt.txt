@@ -98,41 +98,41 @@ Head of Study Programs:
 - Dr. Anton Wachidin Widjaja, S.E., M.M. (Master of Management in Technology)
 
 List of Lecturers:
-- General Courses:
+1. General Courses:
     - Hernawati Wibawati Retno Wiratih, S.Pd, M.Sc.
     - Dr. Bruno Rumyaru, MA.
     - Lambok Hermanto Sihombing, SS., M.Hum.
     - Barnabas S. S. Ratuwalu, S.S., M.A.
-- Master in Information Technology:
+2. Master in Information Technology:
     - Prof. Dr. Ir. Wiranto Herry Utomo, M.Kom.
     - Ir. Rila Mandala, M.Sc., Ph.D
     - Cutifa Safitri, M.Sc., Ph.D.
     - Roesdianto Rustam, M.Sc., Ph.D
     - Dr. Tjong Wan Sen, S.T., M.T.
-- VCD:
+3. VCD:
     - Fransiska Rachel, S.Sn., M.Ds
     - Remandhia Mulcki, S.Sn., M.Ds. 
     - Drs. Antonius Mikael Hermanto Laksana, M.Ikom
     - Lintang Ratna Anindita, S.Ds, M.Ds
     - Rinaldi Aditya Gratama, S.Ds., MAB
     - Vivianty Hartono, S.Ds., M.Ds
-- Informatics:
+4. Informatics:
     - Cutifa Safitri, Ph.D.
     - Andika Candra Jaya, B.Sc.IT, M.Kom
     - Drs. Nur Hadisukmana, M.Sc.
     - Williem, M.Sc.
     - Abdul Ghofir, S.Kom., M.Kom.
     - Rosalina, S.Kom., M.Kom.
-- Information System:
+5. Information System:
     - Ronny Juwono, S.Pd., M.T. 
     - Rikip Ginanjar, M.Sc. 
     - Hadi Suprayitno, S.Kom., M.M.
     - Genta Sahuri, S.Kom., M.Kom.
     - Dr. Hasanul Fahmi, S.Kom., M.Kom.
-- Interior Design:
+6. Interior Design:
     - Pratiwi Purnama Suradhuhita, S.T., M.Ars.
     - Afina Nisa Aulia, S.Ds., M.Ds.
-- Electrical Engineering:
+7. Electrical Engineering:
     - Drs. Antonius Suhartomo, M.Eng.Sc., M.M., Ph.D.
     - Dr.-Ing. Erwin Sitompul, S.T., M.Sc.
     - Joni Welman Simatupang, S.T., M.Sc.Eng, Ph.D.
@@ -141,7 +141,7 @@ List of Lecturers:
     - Iksan Bukhori, S.T., M.Phil.
     - Arthur Parsaoran Silitonga, S.T., M. Sc.
     - Ir. Adhi Widjaja Natahartaka, M.Sc.
-- Industrial Engineering:
+8. Industrial Engineering:
     - Andira Taslim, S.T., M.T. 
     - Herwan Yusmira, B.Sc., M.E.T., Postgrad DIPL, Mtech.
     - Johan Krisnanto Runtuk, S.T., M.T.
@@ -151,17 +151,17 @@ List of Lecturers:
     - Prof. Dr. Muljono
     - Athina Sakina Ratum, S.T., M.Sc
     - Ir. Adi Saptari, M.Sc., Ph.D 
-- Mechanical Engineering:
+9. Mechanical Engineering:
     - Dr.Eng. Lydia Anggraini, S.T., M.Eng.
     - Tetuko Kurniawan, S.T., M.Sc.
     - Dr.Ir. Rudi Suhradi Rachmat, M.Eng.
     - Drs. Nanang Ali Sutisna, M.Eng 
-- Environmental Engineering:
+10. Environmental Engineering:
     - Yosef Barita Sar Manik, S.T., M.Sc, Ph.D
     - Ir. Temmy Wikaningrum, M.Si.
     - Dr. Ir. Yunita Ismail, M.Si.
     - Rijal Hakiki, S.S.T., M.T.
-- Civil Engineering:
+11. Civil Engineering:
     - Dr. Ir. B. M. A. S Anaconda Bangkara, M.T., M.S.M.
     - Prof. Ir. Ika Bali, M.Eng., Ph.D.
     - Prof. Ir. Binsar Hariandja, M.Eng., Ph.D.
@@ -169,10 +169,10 @@ List of Lecturers:
     - Ir. Prihartono, M.Eng.Sc.
     - Riyanto Adji, ST., M.MSc.
     - Andhika Mahendra, S.T., M.Eng.
-- Architecture:
+12. Architecture:
     - Erina Asyera, S.Ars., M.Ars
     - Selly Veronica, S.T., M.T
-- Master of Management in Technology:
+13. Master of Management in Technology:
     - Dr. Anton Wachidin Widjaja, S.E., M.M.
     - Prof. Dr. Jony Oktavian Haryanto
     - Dr. Stephanus Remond Waworuntu, M.B.A.
@@ -181,7 +181,7 @@ List of Lecturers:
     - Maria Jacinta Arquisola, BA, MHRM, PhD
     - Prof. Dr. Ir. Chairy, S.E., M.M.
     - Dr. Purwanto, ST., M.M.
-- Accounting:
+14. Accounting:
     - Mila A. Reyes, BSBA, CPA, MBA.
     - Andi Ina Yustina, S.E, M.Sc., CMA
     - Setyarini Santosa, , S.E., MAFIS., AK., CA.
@@ -194,7 +194,7 @@ List of Lecturers:
     - Drs. Gatot Imam Nugroho, Ak., MBA., CA.
     - Andrianantenaina Hajanirina, B.A., B.Sc., M.M.
     - Chita Oktapriana, S.Akun., M.Ak., CSRS, CMA
-- Business Administration:
+15. Business Administration:
     - Suresh Kumar, S.T., M.Si.
     - Dr. Ir. Farida Komalasari, M.Si.
     - Aloysius Bambang Memet Witono, M.S.B.A.,Ph.D.
@@ -210,7 +210,7 @@ List of Lecturers:
     - Agus Fernando, S.P.,M.M.,Ph.D.
     - Ibnu Hadi, S.E., M.Ec.
     - Ikramina Larasati Hazrati Havidz, S.H., M.B.A., Ph.D
-- Management:
+16. Management:
     - Dr. Dra. Genoveva, M.M.
     - Dr. Dedi Rianto Rahadi, M.M.
     - Liswandi, S.Pd., M.M., Ph.D
@@ -225,16 +225,16 @@ List of Lecturers:
     - Christina Liem, S.T., M.Comm
     - Pandu Adi Cakranegara, S.E., M.Sc.FI., MBA., DBA.
     - Dr. Drs. Chandra Setiawan, M.M., Ph.D.
-- Actuarial Science:
+17. Actuarial Science:
     - Maria Yus Trinity Irsan, S.Si., M.Si.
     - Fauziah Nur Fahirah Sudding, S.Pd., M.Si
     - Agus Sofian Eka Hidayat, S.Pd., M.Ed., M.Sc, ASAI
     - Dr. Dadang Amir Hamzah, S.Si., M.Si
     - Dr. Edwin Setiawan Nugraha, S.Si, M.Sc.
-- Agribusiness:
+18. Agribusiness:
     - Dr. Dani Lukman Hakim, SP.
     - Rachmi Satwhikawara, S.Pd., M.Si.
-- International Relations:
+19. International Relations:
     - Drs. Muhammad A.S. Hikam, MA., Ph.D.
     - Dr. Endi Haryono, S.IP., M.Si.
     - Drs. Teuku Rezasyah, M.A., Ph.D.
@@ -255,8 +255,9 @@ List of Lecturers:
     - M. Syafi'i Anwar, S.H., M.I.Pol., Ph.D.
     - Nino Viartasiwi, M.A., Ph.D.
     - Dr. Jeanne Francoise
-- Communication:
+20. Communication:
     - M. Raudy Gathmyr, S.Sos., M.Si.
+    - Mohammad Shihab, S.I.Kom, M.I.Kom.
     - Achmad Supardi, S.IP., M.A.
     - Hari Suryanto, S.Sn., M.Sn.
     - Sylvia Savitri, S.IP., M.Si.
@@ -264,10 +265,9 @@ List of Lecturers:
     - Haris Herdiansyah, S.Psi., M.Si.
     - Anathasia Citra, S.Sos., M.Si.
     - Mariani Amri, S.Sos., M.Si.
-    - Mohammad Shihab, S.I.Kom, M.I.Kom.
     - Naswan Iskandar, S.Sn., M.Sn.
     - Eric Gunawan, A.Md., S.Sn., M.Si.
-- Law:
+21. Law:
     - Bayu Imantoro, S.H., M.H.
     - Dr. Dra. Fennieka Kristianto, S.H., M.H., M.A., M.Kn 
     - Handa S. Abidin, S.H., LL.M., Ph.D.
@@ -276,7 +276,7 @@ List of Lecturers:
     - Sujana Donandi S., S.H., M.H.
     - Mahayoni, S.H., M.H.
     - Dr. Ir. Robert Pangihutan Radjagoekgoek, S.Sos., S.H., M.H., CLI., CLA
-- PSTE:
+22. PSTE:
     - Ani Pujiastuti, Ph.D
     - Grace Amialia Anfetonanda Neolaka, S.Pd.Gr., M.Pd
     - Prof. Dr. Slameto
@@ -294,7 +294,7 @@ Head of Bureaus/Departments:
 - Ikramina Larasati Hazrati Havidz, S.H., M.B.A., Ph.D (International Office-Mobility)
 - Dr. Retnowati, S.Th., M.Si. (LRPM/Research & Community Service-Scholar)
 - Reni Renita, S.T. (Academic Bureau/Teaching Assistant-Scholar)
-- Ir. JB Susetiyo (ICC-Internship)
+- Ir. JB Susetiyo (Internship and Career Center/ICC-Internship)
 - Donald Samuel Slamet Santosa, S.Pd., M.M., M.Pd., D.Th. (Student Affairs-Kampus Merdeka)
 - Neilany Edwina, S.Sos., M.Si. (Library)
 - Whereson Helpme Wintro Siringoringo, S.E., M. Ak (Finance & Accounting)
