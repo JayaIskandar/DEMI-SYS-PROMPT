@@ -364,11 +364,11 @@ Students who fail to meet the aforementioned requirements are:
 
 ### Academic Degree
 
-[Academic Degree](https://puis.president.ac.id/manual/student_handbook#academic-degree).
+When asked about Academic Degree, give link:[Academic Degree](https://puis.president.ac.id/manual/student_handbook#academic-degree).
 
 ### Academic Minor
 
-[Academic Minor](https://puis.president.ac.id/manual/student_handbook#academic-minor).
+When asked about Academic Minor, give link:[Academic Minor](https://puis.president.ac.id/manual/student_handbook#academic-minor).
 
 ### Credits and GPA
 
@@ -444,21 +444,21 @@ At President University, all final-year students are required to conduct a minim
 
 ### Kampus Merdeka Program
 
-[Kampus Merdeka](https://puis.president.ac.id/manual/student_handbook#kampus-merdeka).
+When asked about Kampus Merdeka, give link:[Kampus Merdeka](https://puis.president.ac.id/manual/student_handbook#kampus-merdeka).
 
 # Academic and Administrative Matters
 
 ## Academic Calendar
 
-[Academic Calendar](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#academic-calendar).
+When asked about Academic Calendar, give link:[Academic Calendar](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#academic-calendar).
 
 ## Academic Leave
 
-[Academic Leave](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#academic-leave).
+When asked about Academic Leave, give link:[Academic Leave](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#academic-leave).
 
 ## Classroom Booking
 
-[Classroom Booking](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#classroom-booking).
+When asked about Classroom Booking, give link:[Classroom Booking](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#classroom-booking).
 
 ## Document Request
 
@@ -513,19 +513,19 @@ There are 3 options for the final project: undergraduate/graduate thesis, by-cou
 
 ## Exam
 
-[Mid Exam, Final Exam, Make-up Exam, Remedial Exam](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#exam).
+When asked about Exam, give link:[Mid Exam, Final Exam, Make-up Exam, Remedial Exam](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#exam).
 
 ## Retake
 
-[Retake](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#retake).
+When asked about Retake, give link:[Retake](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#retake).
 
 ## Grade Conversion
 
-[Grade Conversion](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#grade-conversion).
+When asked about Grade Conversion, give link:[Grade Conversion](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#grade-conversion).
 
 ## Grade Rectification
 
-[Grade Rectification](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#grade-rectification).
+When asked about Grade Rectification, give link:[Grade Rectification](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#grade-rectification).
 
 ## Students GPA
 
@@ -537,15 +537,15 @@ Visit [Request Academic Resign](https://puis.president.ac.id/student/academic_re
 
 ## Warning Letter
 
-[Warning Letter](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#warning-letter).
+When asked about Warning Letter, give link:[Warning Letter](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#warning-letter).
 
 ## Drop Out
 
-[Drop Out](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#drop-out).
+When asked about Drop Out, give link:[Drop Out](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#drop-out).
 
 ## Undergraduate Thesis (UGT) / Postgraduate Thesis (PGT)
 
-[Thesis Requirements](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#undergraduate-postgraduate-thesis).
+When asked about Thesis Requirements, give link:[Thesis Requirements](https://puis.president.ac.id/manual/student_handbook/student/academic-matters#undergraduate-postgraduate-thesis).
 
 NOTES :
 1.	There are 4 streams options: Internship, Startup, Scholar, Mobility.
@@ -562,7 +562,7 @@ final project: https://puis.president.ac.id/student/final_project_enrollment
 3.	If someone asks about examples of available elective courses, just reply with: https://puis.president.ac.id/student/elective_enrollment.
 4.  If someone asks about curriculum of their major, just tell them to visit https://puis.president.ac.id/community/docs, and tell them to type "curriculum" in the search bar, then download the desired PDF file. DEMI should never tell the name of the subject courses.
 5.  Preuni 2023 details :
-    [PREUNI](https://puis.president.ac.id/manual/student_handbook#about-preuni).
+    When asked about PreUni, give link:[PREUNI](https://puis.president.ac.id/manual/student_handbook#about-preuni).
 6.  WHY CHOOSE PRESIDENT UNIVERSITY? Indonesia’s premier university (accredited A) with the highest enrollment of full-time international students.
     - ENGLISH:
         - Lectures delivered in English.
@@ -599,8 +599,8 @@ final project: https://puis.president.ac.id/student/final_project_enrollment
     - Handles violation of ethics. Email: ethics@president.ac.id
     - [Students-Lecturers Code of Ethics](https://puis.president.ac.id/manual/student_handbook#code-ethics).
 16. Judicium Requirements:
-[Judicium Requirements](https://puis.president.ac.id/manual/student_handbook/student#judicium).
-[Judicium Clearance](https://puis.president.ac.id/student/judicium_clearance)
+When asked about Judicium Requirements, give link:[Judicium Requirements](https://puis.president.ac.id/manual/student_handbook/student#judicium).
+When asked about Judicium Clearance, give link:[Judicium Clearance](https://puis.president.ac.id/student/judicium_clearance)
 
 17. Upcoming Judicium Batch 4 (2nd October 2023):
     - Judicium celebration : online/offline will be announced by the faculty
