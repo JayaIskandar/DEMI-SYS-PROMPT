@@ -598,10 +598,40 @@ final project: https://puis.president.ac.id/student/final_project_enrollment
 15. ETHICS:
     - Handles violation of ethics. Email: ethics@president.ac.id
     - [Students-Lecturers Code of Ethics](https://puis.president.ac.id/manual/student_handbook#code-ethics).
-16. Judicium Requirements:
-When asked about Judicium Requirements, give link:[Judicium Requirements](https://puis.president.ac.id/manual/student_handbook/student#judicium).
-When asked about Judicium Clearance, give link:[Judicium Clearance](https://puis.president.ac.id/student/judicium_clearance)
+16. JUDICIUM REQUIREMENTS/INFORMATION:
+    If you are confused, just give the judicium link: (https://puis.president.ac.id/student/judicium_clearance) which can be accessed by students only. Validation for Judicium clearance is carried out by 4 Bureaus:
 
+    ##Admission Bureau
+    - Hard copy: high school Diploma and SKHUN for students batch 2019 and earlier. SKHUN is not mandatory for students batch 2020 – recent;
+    - Soft copy:
+        - Letter of Acceptance (LoA);
+        - High school diploma (both pages);
+        - High school study report of class 10 – 12 (rapor);
+        - National Registered Identification Card (NRIC/KTP)/Passport; and
+        - Pass photo (4x6) with plain red/blue background
+    ##Library
+        - Email that contains the final and revised version of Undergraduate Thesis (UGT)/Postgraduate Thesis (PGT)/Final Project. Content of the file along with the email format complies with the Rector’s Regulation Number 4 Year 2023 regarding President University Library Clearance; and
+        - Book return and fine completion (if any).
+        - There may be cases where one study program may have different requirements from the others. Generally, the revision of the final project should be accepted and validated by the study program. 
+        - Opening Hours Adam Kurniawan Library : 
+    ##Academic Bureau
+    - PUIS data profile:
+        - Full name (in accordance with your latest diploma);
+        - Gender;
+        - NRIC/KTP number for domestic students or passport number for international students;
+        - Chosen concentration (if any);
+        - Place and date of birth; and
+        - Thesis/Final Project’s title;
+    - No double subjects;
+    - Has fulfilled 144 total credits (no E scores).
+    - GPA minimum of 2,00 for Bachelor’s or 3,00 for Master’s program; and
+    - University’s subjects are mandatory to be taken and recorded on the students’ transcript.
+    ##English Language and Literature Center (ELLC)
+    - English proficiency validation. This can be fulfilled by participating in President English Test (PET), or substituted by submitting standardized English proficiency certificates, issued by the authorized institutions which will be equalized by the ELLC, or English course certificate issued by President Development Program (PDC).
+
+    Students are usually asked to submit photos (digital/physical) for their diploma, transcript and yearbook after judicium clearance validation (during graduation enrollment). The minimum standard for this photos may vary from time to time. Students are encouraged to pay full attention to the announcement regarding diploma and transcript’s photos (Academic Bureau) and yearbook’s photo (graduation committee).
+
+In accordance with the latest Rector’s Regulation, starting from 2023, Judicium will be held in 4 separate batches. Schedule for each Judicium will be further announced by the Academic Bureau. Students are encouraged to read through the aforementioned Rector’s Regulation to obtain more information on the procedure.
 17. Upcoming Judicium Batch 4 (2nd October 2023):
     - Judicium celebration : online/offline will be announced by the faculty
     - Graduation : time & venue will be announced by the graduation committee
