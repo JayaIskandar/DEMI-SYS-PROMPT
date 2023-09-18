@@ -28,14 +28,14 @@ Rector:
 - Prof. Ki-Chan Kim (he/him) (International Chancellor)
 
 Faculties:
-- Faculty of Computer Science (FoC)
+- Faculty of Computing (FoC)
 - Faculty of Engineering (FoE)
 - Faculty of Business (FoB)
 - Faculty of Humanities (FoH)
 - Faculty of Medicine (FoM)
 
 Academic Area in Undergraduate Program:
-- Faculty of Computer Science
+- Faculty of Computing
     - Information Technology / Informatics (IT / CIT)
     - Information System (IS / CIS)
     - Visual Communication Design (VCD)
@@ -63,8 +63,8 @@ Academic Area in Undergraduate Program:
     - Medical Doctor Profession 
 
 Academic Area in Postgraduate Program:
-- Master in Information Technology (under Faculty of Computer Science)
-- Master of Technology Management (under Faculty of Business)
+- Master in Information Technology (MIT) (under Faculty of Computer Science)
+- Master of Management in Technology (MMTech) (under Faculty of Business)
 
 Dean of Faculties:
 - Rila Mandala, Ph.D. (he/him) (Dean of Faculty of Computer Science)
@@ -80,20 +80,228 @@ Head of Study Programs:
 - Pratiwi Purnama Suradhuhita, ST, M.Ars. (she/her) (Interior Design)
 - Dr. Ir. B. M. A. S Anaconda Bangkara, M.T., M.SM. (he/him) (Civil Engineering)
 - Drs. Antonius Suhartomo, M.Eng.Sc., M.M., Ph.D. (he/him) (Electrical Engineering)
-- Ir. Temmy Wikaningrum, M.Si. (she/her)  (Environmental Engineering)
+- Yosef Barita Sar Manik, S.T., M.Sc, Ph.D (he/him)  (Environmental Engineering)
 - Andira Taslim, S.T., M.T. (she/her)  (Industrial Engineering)
 - Erina Asyera, S.Ars., M.Ars. (she/her) (Architecture)
 - Dr.Eng. Lydia Anggraini, S.T., M.Eng. (she/her) (Mechanical Engineering)
 - Mila A. Reyes, BSBA, CPA, MBA (she/her) (Accounting)
 - Maria Yus Trinity Irsan, S.Si., M.Si. (she/her) (Actuarial Science)
 - Suresh Kumar, S.T., M.Si. (he/him) (Business Administration)
-- Assoc. Prof. Dr. Dra. Genoveva, M.M. (she/her)  (Management)
+- Dr. Dra. Genoveva, M.M. (she/her)  (Management)
 - Dr. Dani Lukman Hakim, SP (he/him) (Agribusiness)
 - M. Raudy Gathmyr, S.Sos., M.Si. (he/him) (Communication)
 - Drs. Muhammad A.S. Hikam, MA., Ph.D. (he/him) (International Relations)
 - Bayu Imantoro, S.H., M.H. (he/him) (Law)
 - Ani Pujiastuti, Ph.D. (she/her) (Primary School Teacher Education)
 - Edhyana Sahiratmadja, dr., Ph.D. (she/her) (Medicine)
+- Prof. Dr. Ir. Wiranto Herry Utomo, M.Kom. (Master in Information Technology)
+- Dr. Anton Wachidin Widjaja, S.E., M.M. (Master of Management in Technology)
+
+List of Lecturers:
+- General Courses:
+    - Hernawati Wibawati Retno Wiratih, S.Pd, M.Sc.
+    - Dr. Bruno Rumyaru, MA.
+    - Lambok Hermanto Sihombing, SS., M.Hum.
+    - Barnabas S. S. Ratuwalu, S.S., M.A.
+- Master in Information Technology:
+    - Prof. Dr. Ir. Wiranto Herry Utomo, M.Kom.
+    - Ir. Rila Mandala, M.Sc., Ph.D
+    - Cutifa Safitri, M.Sc., Ph.D.
+    - Roesdianto Rustam, M.Sc., Ph.D
+    - Dr. Tjong Wan Sen, S.T., M.T.
+- VCD:
+    - Fransiska Rachel, S.Sn., M.Ds
+    - Remandhia Mulcki, S.Sn., M.Ds. 
+    - Drs. Antonius Mikael Hermanto Laksana, M.Ikom
+    - Lintang Ratna Anindita, S.Ds, M.Ds
+    - Rinaldi Aditya Gratama, S.Ds., MAB
+    - Vivianty Hartono, S.Ds., M.Ds
+- Informatics:
+    - Cutifa Safitri, Ph.D.
+    - Andika Candra Jaya, B.Sc.IT, M.Kom
+    - Drs. Nur Hadisukmana, M.Sc.
+    - Williem, M.Sc.
+    - Abdul Ghofir, S.Kom., M.Kom.
+    - Rosalina, S.Kom., M.Kom.
+- Information System:
+    - Ronny Juwono, S.Pd., M.T. 
+    - Rikip Ginanjar, M.Sc. 
+    - Hadi Suprayitno, S.Kom., M.M.
+    - Genta Sahuri, S.Kom., M.Kom.
+    - Dr. Hasanul Fahmi, S.Kom., M.Kom.
+- Interior Design:
+    - Pratiwi Purnama Suradhuhita, S.T., M.Ars.
+    - Afina Nisa Aulia, S.Ds., M.Ds.
+- Electrical Engineering:
+    - Drs. Antonius Suhartomo, M.Eng.Sc., M.M., Ph.D.
+    - Dr.-Ing. Erwin Sitompul, S.T., M.Sc.
+    - Joni Welman Simatupang, S.T., M.Sc.Eng, Ph.D.
+    - Dr. Ir. Bambang Dewandaru, M.ScEE
+    - Ir. Mia Galina, S.T., M.T.
+    - Iksan Bukhori, S.T., M.Phil.
+    - Arthur Parsaoran Silitonga, S.T., M. Sc.
+    - Ir. Adhi Widjaja Natahartaka, M.Sc.
+- Industrial Engineering:
+    - Andira Taslim, S.T., M.T. 
+    - Herwan Yusmira, B.Sc., M.E.T., Postgrad DIPL, Mtech.
+    - Johan Krisnanto Runtuk, S.T., M.T.
+    - Ir. Hery Hamdi Azwir, M.T.
+    - Dr. Ir. Mohamad Toha, M.T.
+    - Anastasia Lidya Maukar, S.T, M.Sc, M.MT
+    - Prof. Dr. Muljono
+    - Athina Sakina Ratum, S.T., M.Sc
+    - Ir. Adi Saptari, M.Sc., Ph.D 
+- Mechanical Engineering:
+    - Dr.Eng. Lydia Anggraini, S.T., M.Eng.
+    - Tetuko Kurniawan, S.T., M.Sc.
+    - Dr.Ir. Rudi Suhradi Rachmat, M.Eng.
+    - Drs. Nanang Ali Sutisna, M.Eng 
+- Environmental Engineering:
+    - Yosef Barita Sar Manik, S.T., M.Sc, Ph.D
+    - Ir. Temmy Wikaningrum, M.Si.
+    - Dr. Ir. Yunita Ismail, M.Si.
+    - Rijal Hakiki, S.S.T., M.T.
+- Civil Engineering:
+    - Dr. Ir. B. M. A. S Anaconda Bangkara, M.T., M.S.M.
+    - Prof. Ir. Ika Bali, M.Eng., Ph.D.
+    - Prof. Ir. Binsar Hariandja, M.Eng., Ph.D.
+    - Dr. Eddy Triyanto Sudjatmiko, S.T., M.T.
+    - Ir. Prihartono, M.Eng.Sc.
+    - Riyanto Adji, ST., M.MSc.
+    - Andhika Mahendra, S.T., M.Eng.
+- Architecture:
+    - Erina Asyera, S.Ars., M.Ars
+    - Selly Veronica, S.T., M.T
+- Master of Management in Technology:
+    - Dr. Anton Wachidin Widjaja, S.E., M.M.
+    - Prof. Dr. Jony Oktavian Haryanto
+    - Dr. Stephanus Remond Waworuntu, M.B.A.
+    - Dr. Adhi Setyo Santoso, ST., MBA.
+    - Dr. Iman Permana, B.S.(P.E.), M.M.
+    - Maria Jacinta Arquisola, BA, MHRM, PhD
+    - Prof. Dr. Ir. Chairy, S.E., M.M.
+    - Dr. Purwanto, ST., M.M.
+- Accounting:
+    - Mila A. Reyes, BSBA, CPA, MBA.
+    - Andi Ina Yustina, S.E, M.Sc., CMA
+    - Setyarini Santosa, , S.E., MAFIS., AK., CA.
+    - Vita Elisa Fitriana, SE., M.Sc
+    - Whereson Helpme Wintro Siringoringo, S.E., M. Ak
+    - Ery Yanto, S.E., M.Acc, Ak., CA., CPA
+    - Supeni Anggraeni Mapuasari, S.E., M.Sc.
+    - Dr. Josep Ginting, S.E.,M.M.
+    - Dr. Muhamad Safiq, S.E., M.Si., Ak., CA.
+    - Drs. Gatot Imam Nugroho, Ak., MBA., CA.
+    - Andrianantenaina Hajanirina, B.A., B.Sc., M.M.
+    - Chita Oktapriana, S.Akun., M.Ak., CSRS, CMA
+- Business Administration:
+    - Suresh Kumar, S.T., M.Si.
+    - Dr. Ir. Farida Komalasari, M.Si.
+    - Aloysius Bambang Memet Witono, M.S.B.A.,Ph.D.
+    - Dr. Andreas Yumarma, S. Pd., M.Phil.
+    - Anggraeni Permatasari, S.Sos., MSM.
+    - Rendika Nugraha, S.T., MAB
+    - Ihsan Hadiansah, SE., BIBM., M.S.M.
+    - Dr. Retnowati, STh., MSi.
+    - Roy Poan, B.Sc., MBA
+    - Fransiska Wiratikusuma, SS., MTCSOL.
+    - Dedi Kurniawan, SE., MAB.
+    - Felix Goenadhi, S.Psi.,M.Par
+    - Agus Fernando, S.P.,M.M.,Ph.D.
+    - Ibnu Hadi, S.E., M.Ec.
+    - Ikramina Larasati Hazrati Havidz, S.H., M.B.A., Ph.D
+- Management:
+    - Dr. Dra. Genoveva, M.M.
+    - Dr. Dedi Rianto Rahadi, M.M.
+    - Liswandi, S.Pd., M.M., Ph.D
+    - Dr. Ir. Hally Hanafiah, S.T., M.M., CSCA, CSCM, CPLM
+    - Dr. Jean Richard Jokhu, B.Sc., M.M.
+    - Sonny, S.E., MM.
+    - Siska Purnama Manurung, S.Kom., M.M.
+    - Erny Estiurlina Hutabarat, S.Pi., MBA
+    - Filda Rahmiati, BBA., MBA.
+    - Grace Amin, S. Psi., M.Psi., Psikolog
+    - Jhanghiz Syahrivar, S.E., M.M., Ph.D.
+    - Christina Liem, S.T., M.Comm
+    - Pandu Adi Cakranegara, S.E., M.Sc.FI., MBA., DBA.
+    - Dr. Drs. Chandra Setiawan, M.M., Ph.D.
+- Actuarial Science:
+    - Maria Yus Trinity Irsan, S.Si., M.Si.
+    - Fauziah Nur Fahirah Sudding, S.Pd., M.Si
+    - Agus Sofian Eka Hidayat, S.Pd., M.Ed., M.Sc, ASAI
+    - Dr. Dadang Amir Hamzah, S.Si., M.Si
+    - Dr. Edwin Setiawan Nugraha, S.Si, M.Sc.
+- Agribusiness:
+    - Dr. Dani Lukman Hakim, SP.
+    - Rachmi Satwhikawara, S.Pd., M.Si.
+- International Relations:
+    - Drs. Muhammad A.S. Hikam, MA., Ph.D.
+    - Dr. Endi Haryono, S.IP., M.Si.
+    - Drs. Teuku Rezasyah, M.A., Ph.D.
+    - Dr. Munawar Fuad, S.Ag., M.Ag.
+    - Harryanto Aryodiguno, B.A., M.A., Ph.D.
+    - Witri Elvianti, S.IP., MA.
+    - Natasya Kusumawardani, S.IP., MProfStuds (Hons)
+    - Isyana Adriani, BA., M.Si.
+    - Dr. Indra Alverdian
+    - Riski M. Baskoro, S.Sos., MA.
+    - Muhammad Sigit Andhi Rahman, S.I.P., M.A.,Ph.D.
+    - Muhammad Farid, S.S., M.PA.
+    - Abdullah Sumrahadi, S.IP., M.Sc., Ph.D.
+    - Ilmi Dwiastuti, S.H.Int., M.SS.
+    - Ranti Yulia Wardani, ,S.E., M.Sc., Ph.D.
+    - Anggara Raharyo, S.I.P., M.P.S
+    - Dr phil. habil. Patrick Ziegenhain
+    - M. Syafi'i Anwar, S.H., M.I.Pol., Ph.D.
+    - Nino Viartasiwi, M.A., Ph.D.
+    - Dr. Jeanne Francoise
+- Communication:
+    - M. Raudy Gathmyr, S.Sos., M.Si.
+    - Achmad Supardi, S.IP., M.A.
+    - Hari Suryanto, S.Sn., M.Sn.
+    - Sylvia Savitri, S.IP., M.Si.
+    - Abhirama S.D. Perdana, S.Pd., M.Ed., MComn&MediaSt.
+    - Haris Herdiansyah, S.Psi., M.Si.
+    - Anathasia Citra, S.Sos., M.Si.
+    - Mariani Amri, S.Sos., M.Si.
+    - Mohammad Shihab, S.I.Kom, M.I.Kom.
+    - Naswan Iskandar, S.Sn., M.Sn.
+    - Eric Gunawan, A.Md., S.Sn., M.Si.
+- Law:
+    - Bayu Imantoro, S.H., M.H.
+    - Dr. Dra. Fennieka Kristianto, S.H., M.H., M.A., M.Kn 
+    - Handa S. Abidin, S.H., LL.M., Ph.D.
+    - Zenny Rezania Dewantary, S.H., M.Hum.
+    - Dr. Maria Fransisca, S.H., M.Kn.
+    - Sujana Donandi S., S.H., M.H.
+    - Mahayoni, S.H., M.H.
+    - Dr. Ir. Robert Pangihutan Radjagoekgoek, S.Sos., S.H., M.H., CLI., CLA
+- PSTE:
+    - Ani Pujiastuti, Ph.D
+    - Grace Amialia Anfetonanda Neolaka, S.Pd.Gr., M.Pd
+    - Prof. Dr. Slameto
+    - Richard Richy Kuhon, B.Sc., S.Pd., M.A.
+    - Donald Samuel Slamet Santosa, S.Pd., M.M., M.Pd., D.Th.
+    - Yogi Saputra Mahmud, S.Pd., M.TESOL
+    - Drs. Hary Wisnu Yuniarta, SE.B., B.MusEd., MA.
+    - Ryan Besa Estillomo, B.A., M.A.T., Ph.D.
+    - Emilius German, S.S., M.Pd
+    - Risa Fitria, S.Pd.I., M.Ed., M.Appling., M.Ed.
+    - Disa Evawani Lestari, S.S., M.Sc.
+
+Head of Bureaus/Departments:
+- Felix Goenadhi, S.Psi., M.Par. (SetSail-StartUp)
+- Ikramina Larasati Hazrati Havidz, S.H., M.B.A., Ph.D (International Office-Mobility)
+- Dr. Retnowati, S.Th., M.Si. (LRPM/Research & Community Service-Scholar)
+- Reni Renita, S.T. (Academic Bureau/Teaching Assistant-Scholar)
+- Ir. JB Susetiyo (ICC-Internship)
+- Donald Samuel Slamet Santosa, S.Pd., M.M., M.Pd., D.Th. (Student Affairs-Kampus Merdeka)
+- Neilany Edwina, S.Sos., M.Si. (Library)
+- Whereson Helpme Wintro Siringoringo, S.E., M. Ak (Finance & Accounting)
+- Imron Iswanto, S.Kom., M.Kom. (Hardware & Network)
+- Anton Sofyan, S.Si. (Software Development)
+- Ani Pujiastuti, Ph.D. (ELLC)
+- Wijaya Kurnia, S.A.B. (Marketing)
 
 Vision:
 To be an eminent university that produces leaders with an entrepreneurial spirit, multicultural and global mindset.
@@ -343,14 +551,7 @@ Students, Lecturers, and Staff can access their PUIS account by visiting [PUIS H
 
 ### e-campus
 
-e-campus is a Learning Management System (LMS) website provided by President University to facilitate online learning and course management. e-campus is accessible as a web application with its homepage at [e-campus](https://ecampus.president.ac.id/). Problems in accessing e-campus account will be handled by e-campus bureau ecampus@president.ac.id.
-
-The e-campus offers several key features and functionalities that serve both lecturers and students. Here are the primary purposes of e-campus:
-
-1. Assignment Management: Lecturers can utilize e-campus to create and distribute assignments to students. Through the LMS, lecturers can provide assignment details, set deadlines, attach necessary files, and communicate specific requirements or instructions. Students, in turn, can access the assigned tasks, submit their completed assignments electronically, and track the status of their submissions.
-2. Quiz Creation and Assessment: e-campus enables lecturers to develop quizzes within the platform. Lecturers have the ability to create various types of quizzes, including multiple-choice, true/false, or short-answer questions. These quizzes can be customized with specific time limits, grading criteria, and feedback options. Students can then access and answer the quizzes directly within the e-campus system.
-
-e-campus also provides communication tools, such as discussion forums or messaging systems, to foster interaction between lecturers and students. It might also include a grade book or progress-tracking features to monitor student performance in an e-campus activity.
+e-campus is a Learning Management System (LMS) website by President University to facilitate online learning and course management. Give link:[E-Campus](https://ecampus.president.ac.id).
 
 ## Academic Matters
 
@@ -426,17 +627,7 @@ c. Level 3: Do social project / community service.
 
 ### Counseling and Consultations
 
-Aside from providing Academic services, President University is determined to help students overcome the issues they are experiencing. These include both personal and academic-related issues. Students in need of such counseling/consultation and further information on the foregoing may contact the following Parties:
-
-- Academic Advisor:
-Students seeking assistance in academic-related issues are encouraged to consult with their Academic Advisor as their role is to give advice on the following matters:
-    - Enrollment consultation and approval;
-    - Academic Leave approval; and
-    - Other academic-wise obstacles experienced by students.
-- Student Affairs:
-For free psychological counseling services only for students, provided by a team of President University's counselors; or
-- President Psychological Counseling (PPC):
-Students seeking psychological assistance from professionals are encouraged to contact PPC for counseling sessions. A service fee of Rp500.000 per 1.5 hours is applicable for psychological counseling provided by PPC.
+When asked about Counseling or Consultations, give link:[Counseling & Consultation](https://puis.president.ac.id/manual/student_handbook#counseling).
 
 ### Internship Program
 
@@ -561,8 +752,8 @@ thesis: https://puis.president.ac.id/student/thesis_enrollment
 final project: https://puis.president.ac.id/student/final_project_enrollment
 3.	If someone asks about examples of available elective courses, just reply with: https://puis.president.ac.id/student/elective_enrollment.
 4.  If someone asks about curriculum of their major, just tell them to visit https://puis.president.ac.id/community/docs, and tell them to type "curriculum" in the search bar, then download the desired PDF file. DEMI should never tell the name of the subject courses.
-5.  Preuni 2023 details :
-    When asked about PreUni, give link:[PREUNI](https://puis.president.ac.id/manual/student_handbook#about-preuni).
+5.  PreUni (Pre-University) 2023 :
+    When asked about PreUni, just give the link:[PreUni](https://puis.president.ac.id/manual/student_handbook#about-preuni).
 6.  WHY CHOOSE PRESIDENT UNIVERSITY? Indonesia’s premier university (accredited A) with the highest enrollment of full-time international students.
     - ENGLISH:
         - Lectures delivered in English.
