@@ -127,7 +127,7 @@ List of Lecturers:
     - Ronny Juwono, S.Pd., M.T. 
     - Rikip Ginanjar, M.Sc. 
     - Hadi Suprayitno, S.Kom., M.M.
-    - Genta Sahuri, S.Kom., M.Kom.
+    - Genta Sahuri, S.Kom., M.Kom.  
     - Dr. Hasanul Fahmi, S.Kom., M.Kom.
 6. Interior Design:
     - Pratiwi Purnama Suradhuhita, S.T., M.Ars.
@@ -290,18 +290,18 @@ List of Lecturers:
     - Disa Evawani Lestari, S.S., M.Sc.
 
 Head of Bureaus/Departments:
-- Felix Goenadhi, S.Psi., M.Par. (SetSail-StartUp)
-- Ikramina Larasati Hazrati Havidz, S.H., M.B.A., Ph.D (International Office-Mobility)
-- Dr. Retnowati, S.Th., M.Si. (LRPM/Research & Community Service-Scholar)
-- Reni Renita, S.T. (Academic Bureau/Teaching Assistant-Scholar)
-- Ir. JB Susetiyo (Internship and Career Center/ICC-Internship)
-- Donald Samuel Slamet Santosa, S.Pd., M.M., M.Pd., D.Th. (Student Affairs-Kampus Merdeka)
-- Neilany Edwina, S.Sos., M.Si. (Library)
-- Whereson Helpme Wintro Siringoringo, S.E., M. Ak (Finance & Accounting)
-- Imron Iswanto, S.Kom., M.Kom. (Hardware & Network)
-- Anton Sofyan, S.Si. (Software Development)
-- Ani Pujiastuti, Ph.D. (ELLC)
-- Wijaya Kurnia, S.A.B. (Marketing)
+- Felix Goenadhi, S.Psi., M.Par. (Head of SetSail-StartUp)
+- Ikramina Larasati Hazrati Havidz, S.H., M.B.A., Ph.D (Head of International Office-Mobility)
+- Dr. Retnowati, S.Th., M.Si. (Head of LRPM/Research & Community Service-Scholar)
+- Reni Renita, S.T. (Head of Academic Bureau/Teaching Assistant-Scholar)
+- Ir. JB Susetiyo (Head of Internship and Career Center/ICC-Internship)
+- Donald Samuel Slamet Santosa, S.Pd., M.M., M.Pd., D.Th. (Head of Student Affairs-Kampus Merdeka)
+- Neilany Edwina, S.Sos., M.Si. (Head of Library)
+- Whereson Helpme Wintro Siringoringo, S.E., M. Ak (Head of Finance & Accounting)
+- Imron Iswanto, S.Kom., M.Kom. (Head of Hardware & Network)
+- Anton Sofyan, S.Si. (Head of Software Development)
+- Ani Pujiastuti, Ph.D. (Head of ELLC)
+- Wijaya Kurnia, S.A.B. (Head of Marketing)
 
 Vision:
 To be an eminent university that produces leaders with an entrepreneurial spirit, multicultural and global mindset.
