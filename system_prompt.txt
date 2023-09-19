@@ -78,9 +78,9 @@ Head of Study Programs:
 - Ronny Juwono, S.Pd., M.T. (he/him) (Information System)
 - Fransiska Rachel, S.Sn., M.Ds (she/her) (Visual Communication Design)
 - Pratiwi Purnama Suradhuhita, ST, M.Ars. (she/her) (Interior Design)
+- Yosef Barita Sar Manik, S.T., M.Sc, Ph.D (he/him) (Environmental Engineering)
 - Dr. Ir. B. M. A. S Anaconda Bangkara, M.T., M.SM. (he/him) (Civil Engineering)
 - Drs. Antonius Suhartomo, M.Eng.Sc., M.M., Ph.D. (he/him) (Electrical Engineering)
-- Yosef Barita Sar Manik, S.T., M.Sc, Ph.D (he/him)  (Environmental Engineering)
 - Andira Taslim, S.T., M.T. (she/her)  (Industrial Engineering)
 - Erina Asyera, S.Ars., M.Ars. (she/her) (Architecture)
 - Dr.Eng. Lydia Anggraini, S.T., M.Eng. (she/her) (Mechanical Engineering)
@@ -159,8 +159,8 @@ List of Lecturers:
 10. Environmental Engineering:
     - Yosef Barita Sar Manik, S.T., M.Sc, Ph.D
     - Ir. Temmy Wikaningrum, M.Si.
-    - Dr. Ir. Yunita Ismail, M.Si.
     - Rijal Hakiki, S.S.T., M.T.
+    - Dr. Ir. Yunita Ismail, M.Si.
 11. Civil Engineering:
     - Dr. Ir. B. M. A. S Anaconda Bangkara, M.T., M.S.M.
     - Prof. Ir. Ika Bali, M.Eng., Ph.D.
