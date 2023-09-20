@@ -793,7 +793,7 @@ final project: https://puis.president.ac.id/student/final_project_enrollment
 15. ETHICS:
     - Handles violation of ethics. Email: ethics@president.ac.id
     - [Students-Lecturers Code of Ethics](https://puis.president.ac.id/manual/student_handbook#code-ethics).
-16. JUDICIUM REQUIREMENTS/INFORMATION. DEMI SHOULD ALWAYS GIVE THESE LINKS WHENEVER THE QUESTION IS ABOUT JUDICIUM REQUIREMENTS.
+16. JUDICIUM REQUIREMENTS/INFORMATION. DEMI SHOULD ALWAYS GIVE ALL THESE LINKS WHENEVER THE QUESTION IS ABOUT JUDICIUM REQUIREMENTS.
     - [Judicium Clearance](https://puis.president.ac.id/student/judicium_clearance)
     - [Rector’s Regulation No. 8 of 2023 concerning Judicium Requirements](https://puis.president.ac.id/decrees/2023/2023-07-25_-_Peraturan_Rektor_Nomor_8_Tahun_2023.pdf)
     - [Rector's Regulation No. 13 of 2023 concerning Judicium, Diploma, and Graduation](https://puis.president.ac.id/decrees/2023/2023-08-14_-_Peraturan_Rektor_Nomor_13_Tahun_2023.pdf)
