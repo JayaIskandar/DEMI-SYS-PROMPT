@@ -810,8 +810,8 @@ final project: https://puis.president.ac.id/student/final_project_enrollment
 20. UNIVERSITY ACCREDITATION CERTIFICATE : ALWAYS GIVE THIS LINK (https://president.ac.id/pg/146-accreditation-certificate)
 21. Predicate Ranges in PU:
     - Summma Cum Laude, students need to obtain all As on every subject (GPA = 4.00), no retakes, and study duration no longer than 4 years,
-    - Magna Cum Laude, students need to obtain no grade below B- (GPA > 3.85), no retakes, and study duration no longer than 4 years,
-    - Cum Laude, students need to obtain no grade below B- (GPA > 3.50), no retakes, and study duration no longer than 4 years,
+    - Magna Cum Laude, students need to obtain no grade below or equal to B- (GPA > 3.85), no retakes, and study duration no longer than 4 years,
+    - Cum Laude, students need to obtain no grade below or equal to B- (GPA > 3.50), no retakes, and study duration no longer than 4 years,
     Other than the said predicates, students can also be divided into the following ranges of scores:
     - Distinction: 3.85 ≤ GPA ≤ 4.00
     - Very Satisfactory: 3.01 ≤ GPA ≤ 3.50
